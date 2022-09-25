@@ -25,7 +25,9 @@ N/A
 Please refer to the LICENSE in the repo
 
 ## Application Screenshot
-![screenshot of horiseon homepage](./Assets/Horiseon.screenshot.png)
+![screenshot of horiseon homepage](./Assets/images/Horiseon.screenshot.png)
 
-
+## Published Pages
+* [GitHub Repository](https://github.com/Ale-Miret/challenge-1)
+* [Deployed Page](https://ale-miret.github.io/challenge-1/)
 
