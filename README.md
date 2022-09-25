@@ -16,7 +16,7 @@ As a bootcamp student, I want my code to be accessible and easy to read. To acco
 N/A
 
 ## Usage
-*To use the webpage, enter url into search bar on browser, and a webpage titled Horiseon will render with three secondary headers and three (h3) benefit headers, complete with a footer at the end. 
+* To use the webpage, enter url into search bar on browser, and a webpage titled Horiseon will render with three secondary headers and three (h3) benefit headers, complete with a footer at the end. 
 
 ## Credits
 N/A
@@ -25,7 +25,7 @@ N/A
 Please refer to the LICENSE in the repo
 
 ## Application Screenshot
-![screenshot of Horiseon homepage](./assets/Horiseon.screenshot.png)
+![screenshot of Horiseon homepage](./assets/Horiseon.screenshot.png?raw=true "Horiseon web page")
 
 
 
