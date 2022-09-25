@@ -25,7 +25,7 @@ N/A
 Please refer to the LICENSE in the repo
 
 ## Application Screenshot
-![screenshot of Horiseon homepage](/assets/Horiseon.screenshot.png)
+![screenshot of Horiseon homepage](./assets/Horiseon.screenshot.png)
 
 
 
